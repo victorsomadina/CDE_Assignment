@@ -14,3 +14,10 @@ Write a query that returns a list of orders where the standard_qty is zero and e
 Find all the company names that start with a 'C' or 'W', and where the primary contact contains 'ana' or 'Ana', but does not contain 'eana'.
 
 ![image](https://github.com/user-attachments/assets/15d3b6ff-1b56-4e56-a84f-fd4731b752a1)
+
+## Question 4
+Provide a table that shows the region for each sales rep along with their associated accounts. Your final table should include three columns: the region name, the sales rep name, and the account name. Sort the accounts alphabetically (A-Z) by account name.
+
+![pq4](https://github.com/user-attachments/assets/0e12b649-a447-44e1-856d-fff88c3f5c29)
+
+## Thank You
