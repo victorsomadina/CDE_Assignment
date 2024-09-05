@@ -20,4 +20,7 @@ Provide a table that shows the region for each sales rep along with their associ
 
 ![pq4](https://github.com/user-attachments/assets/0e12b649-a447-44e1-856d-fff88c3f5c29)
 
+## ETL Workflow
+![ETL Draw drawio (1)](https://github.com/user-attachments/assets/73ed9bc8-5893-4957-accf-c168fe570538)
+
 ## Thank You
