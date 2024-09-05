@@ -1,0 +1,11 @@
+-- Question 1
+select id from orders where gloss_qty > 4000 or poster_qty > 4000;
+
+-- Question 2
+select * from orders where (gloss_qty > 1000 or poster_qty > 1000) and standard_qty = 0;
+
+-- Question 3
+select * from accounts where (name like 'C%' or name like 'W%') and (primary_poc like '%ana%' or primary_poc like '%Ana%') and primary_poc not like '%eana%';
+
+-- Question4 
+select r.name as region_name, sr.name as sales_rep_name, a.name as account_name from accounts a join sales_reps sr on a.sales_rep_id = sr.id join region r on sr.region_id = r.id order by account_name;
