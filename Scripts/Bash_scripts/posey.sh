@@ -4,7 +4,7 @@
 psql --version
 
 # Set PostgreSQL password
-export PGPASSWORD="09077990572"
+export PGPASSWORD="***********"
 
 # create database
 psql -U postgres -h localhost -p 5432 -c "CREATE DATABASE posey;"
