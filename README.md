@@ -7,4 +7,10 @@ Find a list of order IDs where either gloss_qty or poster_qty is greater than 40
 
 ## Question 2
 Write a query that returns a list of orders where the standard_qty is zero and either the gloss_qty or poster_qty is over 1000.
+
 ![pq2](https://github.com/user-attachments/assets/05a3424f-3d22-4bf3-a9e0-895b3465a30b)
+
+## Question 3
+Find all the company names that start with a 'C' or 'W', and where the primary contact contains 'ana' or 'Ana', but does not contain 'eana'.
+
+![image](https://github.com/user-attachments/assets/15d3b6ff-1b56-4e56-a84f-fd4731b752a1)
